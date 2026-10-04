@@ -9,7 +9,7 @@ function Header() {
         <span aria-hidden="true">⚛️</span> React + Tailwind CSS
       </div>
       <h1 className="mt-4 text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
-        Todo<span className="text-indigo-600">This</span>
+        Todo<span className="text-indigo-600">List</span>
       </h1>
       <p className="mt-2 text-slate-600">
         A simple, responsive to-do list to help you plan and finish your day.
